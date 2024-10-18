@@ -1,0 +1,5 @@
+com\cibertec\MovilesProyectoApplication.class
+com\cibertec\models\Solicitud.class
+com\cibertec\controllers\SolicitudController.class
+com\cibertec\repositories\ISolicitudRepository.class
+com\cibertec\services\SolicitudService.class
